@@ -1,2 +1,2 @@
-# electromagnetics-ECE3121
+# ECE3121
 Code for Engineering Electromagnetics
